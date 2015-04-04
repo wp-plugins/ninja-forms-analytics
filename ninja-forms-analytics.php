@@ -5,7 +5,7 @@
  * Description:		Get basic user traffic analytics information and save to each submission
  * Version: 		1.0.0
  * Author: 			Plugin9
- * Author URI: 		http://www.plugin9.com/
+ * Author URI: 		http://www.plugin9.com/start
  * Text Domain: 	ninja-form-analytics
  */
 
